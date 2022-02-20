@@ -3,7 +3,7 @@
 ## ✨About me 
 This is Stephanie, AKA Phanie. **I analyze and extract valuable information and insights from Data**.
 Despite having a Bachelor's and Master's in Chemical Engineering, I've always wanted to use my analytics and process skills to solve problems from other areas. That's why I chose to study Data Science.
-I use **Python** to develop **Exploratory Data Analysis (EDA)** and Prediction Projects through **Machine Learning Models**,  and **Power BI* for **Data Visualization Reports**.
+I use **Python** to develop **Exploratory Data Analysis (EDA)** and Prediction Projects through **Machine Learning Models**,  and **Power BI** for **Data Visualization Reports**.
 Here you may find my projects and study notebooks, as well as links to my Power BI dashboards.
 
 Thanks ;)✨
